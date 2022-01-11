@@ -1,4 +1,3 @@
-<a href="https://github.com/Skies966" title="Avatar" alt="Profile Image"><img src="https://avatars.githubusercontent.com/u/60154363?v=4" title="Skies9666" alt="Profile Image"></a>
 ## 👋 Hi there
 
 
