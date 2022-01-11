@@ -2,7 +2,7 @@
 
 
 ## 📃 Introduction
-### Hobbiest developer passionate about style and functionality. I am the owner of https://infinity.cx 
+### Hobbiest developer passionate about style and functionality. I am the owner of https://infinity.cx<br>Spaghetti code, errors and bug are my passion!
 
 ## ⚙️ Languages and tools
 <img style="margin-right: 5px" align="left" alt="C++" width="28px" src="icons/cpp.png" />
