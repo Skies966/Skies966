@@ -1,8 +1,8 @@
-## 👋 Hi there
+# Skies9666
 
 
 ## Introduction
-### I am a developer, sometimes. 
+### Hobbiest developer passionate about style and functionality. I am the owner of https://infinity.cx 
 
 ## ⚙️ Languages and tools
 <img style="margin-right: 5px" align="left" alt="C++" width="28px" src="icons/cpp.png" />
@@ -21,7 +21,6 @@
 - CSS
 - C++
 - JavaScript
-- 
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Skies966&show_icons=true&theme=radical">
