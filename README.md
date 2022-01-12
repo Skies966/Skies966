@@ -16,11 +16,9 @@
 <br>
 
 ### 👨‍🏫👩‍🏫 Currently Expanding my knowledge in...
-- PHP
-- HTML
-- CSS
-- C++
-- JavaScript
+- HyperText Markup Language
+- Nuxt
+- Vue.js
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Skies966&show_icons=true&theme=radical">
