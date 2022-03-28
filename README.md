@@ -16,8 +16,7 @@
 <br>
 
 ### 👨‍🏫👩‍🏫 Currently Expanding my knowledge in...
-- HyperText Markup Language
-- Nuxt
+- HyperText Markup
 - Vue.js
 
 <p align="center">
