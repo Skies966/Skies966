@@ -15,6 +15,7 @@
 <img style="margin-right: 5px" align="left" alt="GitHub" width="28px" src="icons/github.png"/>
 <br>
 
+## 📊 Statistics 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Skies966&show_icons=true&theme=radical">
 </p>
