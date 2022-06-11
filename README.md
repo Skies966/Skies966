@@ -2,7 +2,7 @@
 
 
 ## 📃 Introduction
-### Hobbiest developer passionate about style and functionality. I am the owner of https://infinity.cx<br>Spaghetti code, errors and bug are my passion!
+### Hobbiest developer passionate about functionality, and intuitive design. CEO/Lead Developer at https://infinity.cx<br>Spaghetti code, errors and bug are my passion! Especially resolving them.
 
 ## ⚙️ Languages and tools
 <img style="margin-right: 5px" align="left" alt="C++" width="28px" src="icons/cpp.png" />
