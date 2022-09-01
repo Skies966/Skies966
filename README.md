@@ -25,3 +25,7 @@
 <p align="center">
     Working with code isn't about what you know, it's about how critically you can think to resolve your issues :)
 </p>
+
+<a href="https://discord.com/users/349626663103102976">
+  <img src="https://cdn.discordapp.com/avatars/349626663103102976/a_e8d04bbe506779a963efe1827f7d85bc.webp" align="left" />
+</a>
