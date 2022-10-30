@@ -20,10 +20,10 @@
   <img width="400" src="https://lanyard.cnrad.dev/api/349626663103102976">
   </a>
 </p>
-<p align="center">
+<p align="center" style="display: flex-box">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Skies966&show_icons=true&theme=radical">
 </p>
-<p align="center">
+<p align="center" style="display: flex-box">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skies966&layout=compact&theme=radical">
 </p>
 <p align="center">
