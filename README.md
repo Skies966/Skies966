@@ -20,12 +20,14 @@
   <img width="400" src="https://lanyard.cnrad.dev/api/349626663103102976">
   </a>
 </p>
-<p align="center" style="display: flex-box">
+<div style="display: flex-box">
+<p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Skies966&show_icons=true&theme=radical">
 </p>
-<p align="center" style="display: flex-box">
+<p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skies966&layout=compact&theme=radical">
 </p>
+  </div>
 <p align="center">
     Working with code isn't about what you know, it's about how critically you can think to resolve your issues :)
 </p>
