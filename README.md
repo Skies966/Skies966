@@ -20,7 +20,7 @@
   <img width="400" src="https://lanyard.cnrad.dev/api/349626663103102976">
   </a>
 </p>
-<div style="display: flex-box">
+<div style="display: flex;">
   <div>
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Skies966&show_icons=true&theme=radical">
