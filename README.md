@@ -2,7 +2,7 @@
 
 
 ## 📃 Introduction
-### Hobbiest developer - Currently making secret recipes that you'll maybe one day use! I am the owner of https://darkside.gg, check it out it's pretty cool. I am working on Profilecard.me, but I can't afford the domain lmao. I am passionate about spaghetti code, errors, and bugs. They love me almost as much as I love myself!
+### Hobbiest developer - Currently making secret recipes that you'll maybe one day use! I am the owner of https://OpenAuth.gg, check it out it's pretty cool. I am working on Profilecard.me, but I can't afford the domain lmao. I am passionate about spaghetti code, errors, and bugs. They love me almost as much as I love myself!
 
 ## ⚙️ Languages and tools
 <img style="margin-right: 5px" align="left" alt="C++" width="28px" src="icons/cpp.png" />
